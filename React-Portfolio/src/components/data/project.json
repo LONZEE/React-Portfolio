@@ -1,0 +1,48 @@
+[
+    {
+        "title": "React-Portfolio",
+        "imageSrc":"projects/projects.png",
+        "description": "React Portfolio",
+        "skills":[ "React", "HTML", "CSS", "JavaScript"],
+        "link": "https://github.com/LONZEE/React-Portfolio"
+        
+    },
+    {
+        "title": "PWA: Text Editor",
+        "imageSrc":"projects/projects.png",
+        "description": "PWAs are web applications that are regular web pages or websites, but can appear to the user like traditional applications or native mobile applications.",
+        "skills":["HTML", "CSS", "JavaScript"],
+        "link": "https://github.com/LONZEE/PWA"
+        
+    },
+    {
+        "title": "Socialmedia",
+        "imageSrc":"projects/projects.png",
+        "description": "Socialmedia",
+        "skills":[ "Postman","JavaScript"],
+        "link": "https://github.com/LONZEE/Socialmedia"
+        
+    },{
+        "title": "Regex-Tutorial",
+        "imageSrc":"projects/projects.png",
+        "description": "Regex-Tutorial",
+        "skills":[ "Git","Markdown"],
+        "link": "https://github.com/LONZEE/Regex-Tutorial-/"
+       
+    },
+    {
+        "title": "Take-my-notes",
+        "imageSrc":"projects/projects.png",
+        "description": "Take-my-notes",
+        "skills":[ "React", "HTML", "CSS", "JavaScript"],
+        "link": "https://github.com/LONZEE/Take-my-notes"
+        
+    },{
+        "title": "Svg-Generator",
+        "imageSrc":"projects/projects.png",
+        "description": "Svg-Generator",
+        "skills":[ "React", "HTML", "CSS", "JavaScript"],
+        "link": "https://github.com/LONZEE/SVG-Maker"
+        
+    }
+]
