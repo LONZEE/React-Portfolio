@@ -52,11 +52,10 @@
 
 .link {
   text-decoration: none;
-
   color: var(--color-light);
   font-size: 30px;
   font-weight: 600;
   border-radius: 100px;
-  background: var(--color-primary);
+  background-color: rgb(12, 9, 202);
   padding: 1px 22px;
 }

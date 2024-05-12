@@ -2,18 +2,19 @@
 
 .container{
     position: relative;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 40px;
+    background-color: rgb(75, 73, 73);
+    border-radius: 20px;
+    margin-top: 125px;
+    padding: 75px;
     z-index: 1;
-    margin-left: 25%;
+    margin-left: 10%;
     margin-right: 10%;
 }
 .content{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     align-items: flex-start;
+    gap: 70px;
     z-index: 1;
     
 }
@@ -23,6 +24,8 @@
     font-weight: 900;
     margin-bottom: 40px;
     font-family: var(--font-roboto);
+    color: var(--color-light);
+    padding-right: 50px;
 
 }
 .description{
@@ -30,7 +33,7 @@
     font-weight: 400;
     margin-bottom: 40px;
     font-family: var(--font-roboto);
-    color: var(--color-secondary);
+    color: var(--color-light);
 }
 .gitHubBtn{
     text-decoration: none;
@@ -41,53 +44,4 @@
     font-weight: 700;
     padding: 10px 50px;
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.2);
-}
-
-
-
-
-.topBlur{
-    position: absolute;
-    width: 50vw;
-    height: 50vw;
-    min-width: 350px;
-    min-height: 350px;
-    top: -128px;
-    left: 10vw;
-    border-radius: 780px;
-    background: rgba(25,55,109,0.2);
-    filter:blur(100px);
-    z-index: 0;
-}
-.bottomBlur{
-    position: absolute;
-    width: 70vw;
-    height: 50vw;
-    min-width: 250px;
-    min-height: 250px;
-    top: 250px;
-    right: -25vw;
-    border-radius: 780px;
-    background: rgba(25,55,109,0.2);
-    filter:blur(100px);
-    z-index: 0;
-}
-
-
-@media screen and (max-width: 830px){
-    .container{
-        flex-direction: column-reverse;
-    }
-    .content{
-        align-items: center;
-    }
-    .heroImg{
-        width: 80%;
-    }
-    .topBlur{
-        display: none;
-    }
-    .bottomBlur{
-        display: none;
-    }
 }
