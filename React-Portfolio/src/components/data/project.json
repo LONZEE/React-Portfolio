@@ -2,7 +2,7 @@
     {
         "title": "React-Portfolio",
         "imageSrc":"projects/projects.png",
-        "description": "React Portfolio",
+        "description": "React Portfolio is a personal portfolio website that showcases projects, skills, and contact information. It is built using React, HTML, CSS, and JavaScript.",
         "skills":[ "React", "HTML", "CSS", "JavaScript"],
         "link": "https://github.com/LONZEE/React-Portfolio"
         
@@ -18,14 +18,14 @@
     {
         "title": "Socialmedia",
         "imageSrc":"projects/projects.png",
-        "description": "Socialmedia",
+        "description": "Socialmedia is a social media application that allows users to post, like, and comment on posts. It is built using React, HTML, CSS, and JavaScript.",
         "skills":[ "Postman","JavaScript"],
         "link": "https://github.com/LONZEE/Socialmedia"
         
     },{
         "title": "Regex-Tutorial",
         "imageSrc":"projects/projects.png",
-        "description": "Regex-Tutorial",
+        "description": "Regex-Tutorial is a tutorial that explains how to use regular expressions to match patterns in text. It is built using Git and Markdown.  ",
         "skills":[ "Git","Markdown"],
         "link": "https://github.com/LONZEE/Regex-Tutorial-/"
        
@@ -33,14 +33,14 @@
     {
         "title": "Take-my-notes",
         "imageSrc":"projects/projects.png",
-        "description": "Take-my-notes",
+        "description": "Take-my-notes is a note-taking application that allows users to create, edit, and delete notes. It is built using React, HTML, CSS, and JavaScript.",
         "skills":[ "React", "HTML", "CSS", "JavaScript"],
         "link": "https://github.com/LONZEE/Take-my-notes"
         
     },{
         "title": "Svg-Generator",
         "imageSrc":"projects/projects.png",
-        "description": "Svg-Generator",
+        "description": "Svg-Generator is a web application that allows users to create and download SVG images. It is built using React, HTML, CSS, and JavaScript.      ",
         "skills":[ "React", "HTML", "CSS", "JavaScript"],
         "link": "https://github.com/LONZEE/SVG-Maker"
         
