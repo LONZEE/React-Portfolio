@@ -28,7 +28,6 @@ export const Navbar = () => {
                 <li><a href="#Contact">Contact</a></li>
             </ul>
         </div>
-
     </nav>
     );
 };
